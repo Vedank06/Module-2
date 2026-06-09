@@ -1,0 +1,142 @@
+1.Open the homepage of Zomato or Flipkart in your browser and carefully review it for any visible errors, bugs, or defects (such as broken images, misaligned buttons, typos, or non-working links). List at least 3 issues you observe and describe why you think each one is a defect.	
+
+Ans:Review of Flipkart Homepage
+Issue 1: Slow Loading Banner Image
+
+Observation: Homepage par main banner image load hone mein zyada time lagta hai ya kabhi-kabhi blank dikhai deti hai.
+
+Why is it a Defect?
+User ko products aur offers turant dikhne chahiye. Slow loading se user experience kharab hota hai aur user website chhod sakta hai.
+
+Issue 2: Misaligned Buttons on Mobile View
+
+Observation: Mobile screen par kuch buttons ya menu options properly aligned nahi dikhte.
+
+Why is it a Defect?
+Buttons ka alignment sahi na hone se user ko click karne mein dikkat hoti hai. Website professional bhi nahi lagti.
+
+Issue 3: Non-Working Link
+
+Observation: Kuch promotional banners ya category links click karne par expected page open nahi karte ya error page dikhate hain.
+
+Why is it a Defect?
+User jis page par jana chahta hai, wahan nahi pahunch pata. Isse navigation problem hoti hai aur sales par bhi effect pad sakta hai.
+
+2.Write a short explanation (2-3 sentences each) for the following: What is the difference between an error, a bug, and a defect? Give one real-world example for each from any app you use daily (e.g., Instagram, Paytm, IRCTC).
+ 
+Ans:
+1. Error
+
+Explanation:
+An Error is a mistake made by a developer, designer, or tester while creating the software. It happens during coding, designing, or understanding requirements.
+
+Example (Instagram):
+A developer accidentally writes the wrong formula for calculating likes on a post. This mistake in the code is called an Error.
+
+2. Bug
+
+Explanation:
+A Bug is a problem found in the software when it is running. It causes the application to behave differently from what is expected.
+
+Example (Paytm):
+A user tries to recharge a mobile number, but after payment, the recharge is not completed. This issue seen in the application is called a Bug.
+
+3. Defect
+
+Explanation:
+A Defect is a flaw or issue identified by a tester when the actual result does not match the expected result according to the requirements.
+
+Example (IRCTC):
+The requirement says users should be able to book tickets 24/7, but the booking page crashes when a user clicks the "Book Now" button. The tester reports this as a Defect.
+
+
+3.Think of a recent time when an app you use (like WhatsApp, BookMyShow, or PhonePe) didn't work as expected. Identify the possible cause of the defect: was it a human error, a technical limitation, or a process gap? Explain your reasoning for each case.<br><br><em><strong>Hint:</strong> Consider examples like payment failures, app crashes, or incorrect notifications.</em>.
+
+Ans
+Case 1: PhonePe Payment Failed but Money Was Deducted
+
+What Happened?
+I made a payment using PhonePe. The money was deducted from my bank account, but the payment status showed "Failed."
+
+Possible Cause: Technical Limitation
+
+Reason:
+Sometimes the bank server or network connection is slow. Because of this, PhonePe may not receive confirmation from the bank on time, causing the transaction to fail even though money was deducted.
+
+Case 2: WhatsApp App Suddenly Crashed
+
+What Happened?
+While opening WhatsApp, the app closed automatically and returned to the home screen.
+
+Possible Cause: Human Error
+
+Reason:
+A developer may have introduced a coding mistake while adding a new feature or update. This coding mistake can cause the application to crash unexpectedly.
+
+Case 3: BookMyShow Sent the Wrong Movie Timing Notification
+
+What Happened?
+I received a notification showing a different movie timing than the one I had actually booked.
+
+Possible Cause: Process Gap
+
+Reason:
+The notification system may not have been properly tested before release. A missing review or testing step in the development process can lead to incorrect notifications being sent to users.
+
+4.Imagine you are testing a new food delivery app (like Swiggy). List 3 types of risks that could affect the quality of the app before launch (for example: security risk, usability risk, performance risk). For each risk, briefly explain how it could impact users.
+
+Ans:1. Security Risk
+
+Explanation:
+Security risk occurs when user data such as passwords, phone numbers, or payment details are not properly protected.
+
+Impact on Users:
+If hackers access the system, users' personal and payment information may be stolen. This can cause loss of trust in the app.
+
+2. Usability Risk
+
+Explanation:
+Usability risk occurs when the app is difficult to use or understand.
+
+Impact on Users:
+If users cannot easily find restaurants, add items to the cart, or place orders, they may become frustrated and stop using the app.
+
+3. Performance Risk
+
+Explanation:
+Performance risk occurs when the app becomes slow, hangs, or crashes during heavy usage.
+
+Impact on Users:
+Users may experience slow loading, failed orders, or app crashes, especially during busy times such as lunch or dinner hours.
+
+5.You are given a mini project: a Movie Ticket Booking webpage. Classify the following as either a defect or a risk: (a) The 'Book Now' button does not respond on mobile, (b) There is no logout option, (c) The app sometimes loads slowly during IPL match days. Justify your answer for each.
+
+Ans:(a) The "Book Now" button does not respond on mobile.
+
+Classification:  Defect
+
+Reason:
+A Defect is an actual problem found in the application. If users click the "Book Now" button and nothing happens, they cannot book tickets. This is a functional issue that already exists in the system.
+
+Impact on Users:
+Users will not be able to complete their ticket booking, which can lead to frustration and loss of customers.
+
+(b) There is no logout option.
+
+Classification:  Defect
+
+Reason:
+Most applications should provide a logout option for security and user convenience. If the logout feature is missing, the application does not meet expected requirements.
+
+Impact on Users:
+Users cannot safely sign out of their accounts, especially on shared devices, which may cause security concerns.
+
+(c) The app sometimes loads slowly during IPL match days.
+
+Classification:  Risk
+
+Reason:
+A Risk is a potential problem that may happen in the future. During IPL match days, many users may access the website at the same time, causing the application to become slow.
+
+Impact on Users:
+Users may experience delays while booking tickets and may leave the website if pages take too long to load.
